@@ -1,0 +1,5 @@
+module buyer{
+
+    requires seller;
+
+}
